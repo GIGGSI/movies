@@ -19,27 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c21ffde5-1a14-4e9f-bdbd-af7c98ecec5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/controlers/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/controlers/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/controlers/movies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/controlers/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/footer.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/header.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home/home.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/movie/catalog.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/movie/create.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/movie/details.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/movie/edit.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/user/login.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/user/loginForm.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/user/register.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/user/registerForm.hbs" afterDir="false" />
+    <list default="true" id="c21ffde5-1a14-4e9f-bdbd-af7c98ecec5f" name="Default Changelist" comment="new update">
+      <change afterPath="$PROJECT_DIR$/js/controlers/logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/notification.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/controlers/home.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/controlers/home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/controlers/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/controlers/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/controlers/movies.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/controlers/movies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/controlers/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/controlers/register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notifications/notifications.html" beforeDir="false" afterPath="$PROJECT_DIR$/notifications/notifications.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/header.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/header.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/user/loginForm.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user/loginForm.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/user/registerForm.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/templates/user/registerForm.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,8 +86,16 @@
       <workItem from="1596017683013" duration="977000" />
       <workItem from="1596020237151" duration="1842000" />
       <workItem from="1596141390591" duration="8014000" />
-      <workItem from="1596189616726" duration="2258000" />
+      <workItem from="1596189616726" duration="9212000" />
     </task>
+    <task id="LOCAL-00001" summary="new update">
+      <created>1596192072472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596192072472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +111,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1345" height="188" key="GridCell.Tab.0.bottom" timestamp="1596020159363">
@@ -131,5 +137,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="368" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1596191882456" />
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2" timestamp="1596191930827">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1596191930827" />
   </component>
 </project>
